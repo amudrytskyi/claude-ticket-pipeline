@@ -245,5 +245,5 @@ profile's work directory, prefers the ticket the agent's task names, and logs ea
 ## Read more
 
 - Part 1: [Four phases, two gates: what my logs say about an AI ticket pipeline](https://www.linkedin.com/pulse/four-phases-two-gates-what-my-logs-say-ai-ticket-artur-mudrytskyi-1e6of/)
-- Part 2: link added on publication
+- Part 2: [Half the cost, three tickets a day. It still needs me four times per ticket](https://www.linkedin.com/pulse/half-cost-three-tickets-day-still-needs-me-four-times-mudrytskyi-82i5f/)
 - [Reference page](docs/index.html): the design, the measured numbers and every file in one place
